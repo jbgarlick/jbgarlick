@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbgarlick
 - 👀 I’m interested in data science, machine learning, entreprenuership, sports, and shipping & logistics.
 - 🌱 I’m currently learning about optimization methods, algorithm design, machine learning, and statistics.
-- 💞️ I’m looking to collaborate on innovative projects that improve the work we do, the world we live in, and the people around us.
+- 💞️ I’m looking to collaborate on innovative projects that improve the work we do, the world we live in, and the people around us. I want to use technology to make the world safer and happier.
 - 📫 How to reach me: jared.b.garlick@gmail.com
 
 <!---
